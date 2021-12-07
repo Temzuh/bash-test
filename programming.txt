@@ -1,1 +1,9 @@
-git@github.com:Temzuh/bash-test.git
+Teemu Kukkonen
+https://github.com/Temzuh/bash-test
+
+Python
+Bash, python and vim.
+Automating everyday development tasks.
+Quick prototyping of your applications / programs.
+When you need low-level access to hardware.
+Make is a build system for C / C++ applications.
